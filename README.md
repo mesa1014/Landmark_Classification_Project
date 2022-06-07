@@ -24,7 +24,7 @@ If no location metadata for an image is available, one way to infer the location
 
 In this notebook, you will take the first steps towards addressing this problem by building models to automatically predict the location of the image based on any landmarks depicted in the image. At the end of this project, your code will accept any user-supplied image as input and suggest the top k most relevant landmarks from 50 possible landmarks from across the world. The image below displays a potential sample output of your finished project.
 
-![Sample landmark classification output](images/sample_landmark_output.png)
+![Sample landmark classification output](/notebook_images/sample_landmark_output.png)
 
 
 ### The Road Ahead
